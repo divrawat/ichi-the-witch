@@ -3,7 +3,7 @@ export const DOMAIN = 'https://www.ichithewitch.online';
 
 export const DOMAIN_NAME = 'ichithewitch.online';
 
-export const IMAGES_SUBDOMAIN = 'https://images.ichithewitch.online/ichi-the-witch';
+export const IMAGES_SUBDOMAIN = 'https://images.thesololevelingmanga.online/ichi-the-witch';
 export const IMAGES_SUBDOMAIN_LOGO = 'https://images.mangachimp.com';
 
 // export const MANGA_DESCRIPTION0 = `<a href="${DOMAIN}"><u><b>Vinland Saga</b></u></a>`;
