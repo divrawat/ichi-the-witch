@@ -64,7 +64,7 @@ export const MANGA_SUMMARY = [
 
 
 export const navLinks = [
-    { text: 'Jinx Manhwa', href: `https://www.secretclass.in.net/` },
+    // { text: 'Jinx Manhwa', href: `https://www.secretclass.in.net/` },
     { text: 'Chapter 1', href: `${DOMAIN}/chapter-1` },
     { text: 'Chapter 2', href: `${DOMAIN}/chapter-2` },
     { text: 'Chapter 3', href: `${DOMAIN}/chapter-3` },
