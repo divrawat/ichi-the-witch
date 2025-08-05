@@ -1,6 +1,6 @@
 // components/Popup.js
 import { useState, useEffect } from 'react';
-import { IMAGES_SUBDOMAIN, IMAGES_SUBDOMAIN_LOGO } from '@/config';
+import { DOMAIN, IMAGES_SUBDOMAIN, IMAGES_SUBDOMAIN_LOGO } from '@/config';
 import { Rubik } from '@next/font/google';
 import { FaTelegram } from "react-icons/fa";
 import { FaDiscord } from "react-icons/fa";
@@ -45,7 +45,7 @@ export default function Popup() {
                 </div>
 
 
-                <div className='flex justify-center'><img src={`${IMAGES_SUBDOMAIN_LOGO}/public/logo.webp`} height={100} width={100} className="rounded-full" alt="" /></div>
+                <div className='flex justify-center'><img src={`${DOMAIN}/chimp.webp`} height={100} width={100} className="rounded-full" alt="" /></div>
 
 
                 <h2 className={`${roboto2.className} my-3 text-[20px] text-center font-bold`}>Manga Chimp Toons</h2>
