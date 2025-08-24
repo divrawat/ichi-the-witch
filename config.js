@@ -8,7 +8,7 @@ export const IMAGES_SUBDOMAIN_LOGO = 'https://images.mangachimp.com';
 
 // export const MANGA_DESCRIPTION0 = `<a href="${DOMAIN}"><u><b>Vinland Saga</b></u></a>`;
 
-export const MANGA_DESCRIPTION = `<a href="${DOMAIN}"><u><b>Ichi the Witch</b></u></a> is a fantasy manga set in a world where magic exists in the form of living creatures called Majiks. Witches, specialized hunters. The story revolves around Ichi, a young boy living in the mountains who hunts for a living. After defeating a Majik, he unexpectedly becomes the first male witch. This discovery challenges the long-held belief and sets Ichi on a journey to uncover the secrets of magic and his own abilities.`;
+export const MANGA_DESCRIPTION = `It tells the story of Ichi, a young boy living in the mountains who hunts for a living. In a world where magic exists as living creatures called Majiks and only women are known to become witches—specialized hunters of these beings—Ichi’s life takes a drastic turn when he defeats a Majik and unexpectedly becomes the first male witch. His existence challenges long-held beliefs and sets him on a journey to uncover the secrets of magic and his own unique powers.`;
 
 
 
@@ -20,7 +20,7 @@ export const MANGA_ARTIST = 'Fujino Ōmori';
 export const MANGA_STUDIO = 'None';
 export const MANGA_GENRE = 'Action, Adventure, Drama, Shonen, Fantasy, School';
 export const MANGA_TYPE = 'Manhwa';
-export const HEADER_MANGA_DESC = "Ichi the Witch is a fantasy manga set in a world where magic exists in the form of living creatures called Majiks. Witches, specialized hunters. The story revolves around Ichi, a young boy living in the mountains who hunts for a living. After defeating a Majik, he unexpectedly becomes the first male witch. This discovery challenges the long-held belief and sets Ichi on a journey to uncover the secrets of magic and his own abilities."
+export const HEADER_MANGA_DESC = "It tells the story of Ichi, a young boy living in the mountains who hunts for a living. In a world where magic exists as living creatures called Majiks and only women are known to become witches—specialized hunters of these beings—Ichi’s life takes a drastic turn when he defeats a Majik and unexpectedly becomes the first male witch. His existence challenges long-held beliefs and sets him on a journey to uncover the secrets of magic and his own unique powers."
 
 export const CHAPTER_PREFIX = 'chapter';
 export const IMAGE_PREFIX = 'images/vinland-saga';
@@ -48,7 +48,7 @@ export const DISQUS_SHORTNAME = "my-cms-7";
 export const MANGA_SUMMARY = [
     {
         id: 1,
-        content: "The manga Ichi the Witch is a dark fantasy series that follows the life of Ichi, a young witch with a troubled past. Ichi's childhood was marked by tragedy, as she witnessed the destruction of her village and the murder of her family by a mysterious force. Haunted by these events, Ichi sets out on a journey to uncover the truth behind her past and seek revenge on those responsible."
+        content: "It tells the story of Ichi, a young boy living in the mountains who hunts for a living. In a world where magic exists as living creatures called Majiks and only women are known to become witches—specialized hunters of these beings—Ichi’s life takes a drastic turn when he defeats a Majik and unexpectedly becomes the first male witch. His existence challenges long-held beliefs and sets him on a journey to uncover the secrets of magic and his own unique powers."
     },
     {
         id: 2,
